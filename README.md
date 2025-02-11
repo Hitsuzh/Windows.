@@ -18,7 +18,7 @@ Segue uma lista com cinco versões marcantes do Windows:
 4. **Windows 10 (2015)**: Modelo de atualização contínua e melhor compatibilidade entre dispositivos.
 5. **Windows 11 (2021)**: Novo design e melhorias de desempenho e produtividade.
 
-Exemplo de interface: Windows 11
+> Exemplo de interface: Windows 11
 
 ![](https://upload.wikimedia.org/wikipedia/pt/4/45/Windows-11.jpg)
 
