@@ -1,4 +1,4 @@
-# Sistema Operacional - Winsdows
+# Sistema Operacional - Windows
 
 ## Evolução dos Sistemas Operacionais
 Os sistemas operacionais passaram por uma grande evolução desde suas primeiras versões, acompanhando os avanços tecnológicos:
@@ -41,3 +41,16 @@ A estrutura do Windows é composta por diversos componentes essenciais:
 ## Conclusão
 
 O Windows desempenhou um papel fundamental na evolução dos sistemas operacionais, influenciando a maneira como interagimos com a tecnologia.
+
+### Fontes
+
+```bash
+https://pt.wikipedia.org/wiki/Microsoft_Windows
+```
+
+```bash
+https://www.historiadetudo.com/windows#google_vignette
+```
+```bash
+curiosidades : chatgpt.com
+```
